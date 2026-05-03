@@ -28,34 +28,34 @@ A real-time Indian Sign Language (ISL) recognition system using **MediaPipe** an
 ---
 
 ## 📁 Project Structure
+## 📁 Project Structure
+
+```
 sign_double/
 │
-├── dataset/ # (Not included - user must download)
+├── dataset/                  # (Not included - user must download)
 │
 ├── src/
-│ ├── config.py
-│ ├── preprocessing.py
-│ ├── feature_extraction.py
-│ ├── dataset_builder.py
-│ ├── models/
-│ ├── train/
-│ └── evaluation.py
+│   ├── config.py
+│   ├── preprocessing.py
+│   ├── feature_extraction.py
+│   ├── dataset_builder.py
+│   ├── models/
+│   ├── train/
+│   └── evaluation.py
 │
 ├── app/
-│ ├── sign_double.py # Real-time application
+│   ├── sign_double.py       # Real-time application
 │
 ├── outputs/
-│ ├── models/
-│ ├── classes/
-│ └── history/
+│   ├── models/
+│   ├── classes/
+│   └── history/
 │
-├── main.py # Training pipeline
+├── main.py                  # Training pipeline
 ├── requirements.txt
 └── README.md
-
-
----
-
+```
 ## 📊 Dataset
 
 This project uses the **Indian Sign Language dataset** from Kaggle:
