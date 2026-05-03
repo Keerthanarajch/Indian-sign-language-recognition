@@ -60,7 +60,7 @@ sign_double/
 
 This project uses the **Indian Sign Language dataset** from Kaggle:
 
-👉 https://www.kaggle.com/datasets/kartik2112/indian-sign-language-translation-letters-n-digits
+👉https://www.kaggle.com/datasets/soumyakushwaha/indian-sign-language-dataset
 
 ### 📌 Setup Dataset
 
@@ -78,10 +78,9 @@ Each folder should contain images of that gesture.
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
+git clone https://github.com/keerthanarajch/Indian-sign-language-recognition.git
 
-
-cd sign-language-recognition
-
+cd Indian-sign-language-recognition
 
 ### 2️⃣ Create virtual environment
 python -m venv venv
