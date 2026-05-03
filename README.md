@@ -28,7 +28,6 @@ A real-time Indian Sign Language (ISL) recognition system using **MediaPipe** an
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
 ```
 sign_double/
